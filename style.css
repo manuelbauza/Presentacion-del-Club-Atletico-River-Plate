@@ -46,3 +46,12 @@ main{
     object-fit: cover;
     align-items: center;
 }
+.final{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: brown;
+}
